@@ -1,0 +1,40 @@
+{
+  "Details": [
+    {
+      "id": "1d4d",
+      "Id": 1,
+      "Date": "2024-08-01",
+      "Name": "aJDJKHK",
+      "Number": "0987654321",
+      "Landlocation": "jashh"
+    },
+    {
+      "id": "32e0",
+      "Id": 2,
+      "Date": "2024-08-17",
+      "Name": "Sath",
+      "Number": "0972938667",
+      "Landlocation": "snjakk"
+    }
+  ],
+  "Product": [
+    {
+      "id": "fcca",
+      "Id": 1,
+      "SchoolBag": "SchoolBag",
+      "Sandals": "Sandals",
+      "Umbrella": "",
+      "TiffinBox": "",
+      "WaterBottle": ""
+    },
+    {
+      "id": "a41b",
+      "Id": 2,
+      "SchoolBag": "",
+      "Sandals": "",
+      "Umbrella": "Umbrella",
+      "TiffinBox": "TiffinBox",
+      "WaterBottle": "WaterBottle"
+    }
+  ]
+}
